@@ -1,0 +1,103 @@
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;Defunciones según grupo de edad, por Región,;;;;;;;;;;;;;;;;;;;
+;gran grupo de causas de muertes y sexo. Chile, 2010;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+; CIE-10; Región, gran grupo de causa y sexo;; Grupo de edad (en años);;;;;;;;;;;;;;;;
+;;;; Total  ; < 1  ; 1 a 4  ; 5 a 9  ; 10 a 19  ; 20 a 44  ; 45 a 64  ; 65 a 79  ; 80 y Más  ;;;;;;;;
+;;Total País;;;;;;;;;;;;;;;;;;
+;;Todas las causas;;97.930;1.862;312;188;967;7.114;19.462;30.987;37.038;;;;;;;;
+;;;Hombres;52.237;1.038;171;111;661;5.047;12.255;17.722;15.232;;;;;;;;
+;;;Mujeres;45.693;824;141;77;306;2.067;7.207;13.265;21.806;;;;;;;;
+; A00-B99; Ciertas enfermedades infecciosas y parasitarias;;1.943;27;13;2;13;359;491;507;531;;;;;;;;
+;;;Hombres;1.159;17;6;0;6;287;331;284;228;;;;;;;;
+;;;Mujeres;784;10;7;2;7;72;160;223;303;;;;;;;;
+; C00-D48; Tumores (neoplasias);;24.088;25;32;46;126;1.193;6.364;9.834;6.468;;;;;;;;
+;;;Hombres;12.715;13;19;26;75;565;3.151;5.643;3.223
+;;;Mujeres;11.373;12;13;20;51;628;3.213;4.191;3.245
+; E00-E90; Enfermedades endocrinas, nutricionales y metabólicas;;4.821;10;8;6;16;121;950;1.889;1.821
+;;;Hombres;2.324;7;3;4;9;70;517;998;716
+;;;Mujeres;2.497;3;5;2;7;51;433;891;1.105
+; F00-F90; Trastornos mentales y del comportamiento;;2.585;0;0;0;0;56;115;445;1.969
+;;;Hombres;1.043;0;0;0;0;43;103;259;638
+;;;Mujeres;1.542;0;0;0;0;13;12;186;1.331
+; G00-G99; Enfermedades del sistema nervioso;;3.272;31;43;23;112;273;466;803;1.521
+;;;Hombres;1.529;22;25;15;67;164;284;410;542
+;;;Mujeres;1.743;9;18;8;45;109;182;393;979
+; I00-I99; Enfermedades del sistema circulatorio;;27.158;15;6;3;46;747;4.302;9.176;12.863
+;;;Hombres;13.751;5;2;2;30;504;2.921;5.269;5.018
+;;;Mujeres;13.407;10;4;1;16;243;1.381;3.907;7.845
+; J00-J99; Enfermedades del sistema respiratorio;;9.993;62;20;5;26;236;1.025;2.856;5.763
+;;;Hombres;5.052;38;10;3;19;155;692;1.663;2.472
+;;;Mujeres;4.941;24;10;2;7;81;333;1.193;3.291
+; K00-K93; Enfermedades del sistema digestivo;;7.051;4;5;4;13;507;2.452;2.502;1.564
+;;;Hombres;4.326;2;3;0;9;393;1.819;1.465;635
+;;;Mujeres;2.725;2;2;4;4;114;633;1.037;929
+; N00-N99; Enfermedades del sistema genitourinario;;3.191;3;1;0;5;61;417;1.100;1.604
+;;;Hombres;1.521;3;1;0;3;32;230;561;691
+;;;Mujeres;1.670;0;0;0;2;29;187;539;913
+; P00-P96; Ciertas afecciones originadas en el período perinatal;;853;850;3;0;0;0;0;0;0
+;;;Hombres;501;499;2;0;0;0;0;0;0
+;;;Mujeres;352;351;1;0;0;0;0;0;0
+; Q00-Q99; Malformaciones congénitas, deformidades y anomalías cromosómicas;;859;655;48;15;25;59;43;13;1
+;;;Hombres;442;340;24;9;14;27;22;6;0
+;;;Mujeres;417;315;24;6;11;32;21;7;1
+; R00-R99; Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte;;2.467;129;15;4;16;150;283;433;1.437
+;;;Hombres;1.117;65;9;1;12;107;193;247;483
+;;;Mujeres;1.350;64;6;3;4;43;90;186;954
+; V00-Y98; Causas externas de mortalidad;;8.385;42;113;77;555;3.218;2.334;1.087;959
+;;;Hombres;6.314;20;64;50;413;2.670;1.896;787;414
+;;;Mujeres;2.071;22;49;27;142;548;438;300;545
+;;Resto de causas;;1.264;9;5;3;14;134;220;342;537
+;;;Hombres;443;7;3;1;4;30;96;130;172
+;;;Mujeres;821;2;2;2;10;104;124;212;365
+;De Los Ríos;;;2.646;35;8;6;28;194;539;837;999
+;;;Hombres;1.464;14;4;4;21;129;351;486;455
+;;;Mujeres;1.182;21;4;2;7;65;188;351;544
+; A00-B99; Ciertas enfermedades infecciosas y parasitarias;;69;1;1;1;1;5;18;18;24
+;;;Hombres;32;0;0;0;1;4;11;6;10
+;;;Mujeres;37;1;1;1;0;1;7;12;14
+; C00-D48; Tumores (neoplasias);;643;3;0;1;5;31;166;248;189
+;;;Hombres;332;2;0;1;4;11;79;141;94
+;;;Mujeres;311;1;0;0;1;20;87;107;95
+; E00-E90; Enfermedades endocrinas, nutricionales y metabólicas;;122;0;1;0;0;3;25;49;44
+;;;Hombres;60;0;0;0;0;1;17;24;18
+;;;Mujeres;62;0;1;0;0;2;8;25;26
+; F00-F90; Trastornos mentales y del comportamiento;;53;0;0;0;0;0;4;13;36
+;;;Hombres;28;0;0;0;0;0;4;8;16
+;;;Mujeres;25;0;0;0;0;0;0;5;20
+; G00-G99; Enfermedades del sistema nervioso;;58;0;0;0;2;5;8;15;28
+;;;Hombres;31;0;0;0;1;3;5;10;12
+;;;Mujeres;27;0;0;0;1;2;3;5;16
+; I00-I99; Enfermedades del sistema circulatorio;;689;0;1;0;1;10;125;238;314
+;;;Hombres;376;0;0;0;0;8;90;140;138
+;;;Mujeres;313;0;1;0;1;2;35;98;176
+; J00-J99; Enfermedades del sistema respiratorio;;346;0;1;0;3;16;31;97;198
+;;;Hombres;180;0;0;0;3;11;23;54;89
+;;;Mujeres;166;0;1;0;0;5;8;43;109
+; K00-K93; Enfermedades del sistema digestivo;;150;1;1;0;0;15;51;59;23
+;;;Hombres;89;0;1;0;0;10;33;38;7
+;;;Mujeres;61;1;0;0;0;5;18;21;16
+; N00-N99; Enfermedades del sistema genitourinario;;80;0;0;0;1;4;13;31;31
+;;;Hombres;44;0;0;0;1;2;8;14;19
+;;;Mujeres;36;0;0;0;0;2;5;17;12
+; P00-P96; Ciertas afecciones originadas en el período perinatal;;9;9;0;0;0;0;0;0;0
+;;;Hombres;2;2;0;0;0;0;0;0;0
+;;;Mujeres;7;7;0;0;0;0;0;0;0
+; Q00-Q99; Malformaciones congénitas, deformidades y anomalías cromosómicas;;21;17;0;1;1;1;1;0;0
+;;;Hombres;7;7;0;0;0;0;0;0;0
+;;;Mujeres;14;10;0;1;1;1;1;0;0
+; R00-R99; Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte;;126;3;0;0;2;9;17;24;71
+;;;Hombres;61;2;0;0;1;6;12;14;26
+;;;Mujeres;65;1;0;0;1;3;5;10;45
+; V00-Y98; Causas externas de mortalidad;;245;1;2;3;11;87;76;38;27
+;;;Hombres;209;1;2;3;10;71;68;35;19
+;;;Mujeres;36;0;0;0;1;16;8;3;8
+;;Resto de causas;;35;0;1;0;1;8;4;7;14
+;;;Hombres;13;0;1;0;0;2;1;2;7
+;;;Mujeres;22;0;0;0;1;6;3;5;7
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;MINISTERIO DE SALUD;;;;;;;;;;;
+;Departamento de Estadísticas e Información de Salud;;;;;;;;;;;
